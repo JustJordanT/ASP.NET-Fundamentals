@@ -1,4 +1,4 @@
 # ASP.NET-Fundamentals
 A collection of ASP.NET Solutions sn learning the Basics of ASP.NET
 
-<img width="1104" alt="image" src="https://user-images.githubusercontent.com/38886930/208809261-43a12b21-c409-45f8-aed3-5bb233e0aa5b.png">
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/38886930/208821545-038ef0fa-65e2-4419-8e84-6d135f84301a.png">
